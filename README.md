@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img alt="Barber" title="#delicinha" src="github/logo.png" width="150px" borderRadius="20px" />
-</h1>
 
 # Agenda Plataforma 
 
@@ -34,7 +31,7 @@ sendo assim no horário agendado voce receberá uma notificação informando o h
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/video.gif" />
+    <img src="github/ignitecall_inicial.png" />
 </h1>
 
 ## 🚀 Tecnologias
